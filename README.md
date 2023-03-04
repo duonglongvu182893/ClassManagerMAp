@@ -1,4 +1,4 @@
-# TalkWithFriend
+# ClassManager
 1 Tạo project ứng dụng android
 
 + Bước 1: Tải Android Studio phiên bản 11.0.13
